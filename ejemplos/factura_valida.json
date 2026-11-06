@@ -1,0 +1,8 @@
+{
+  "cliente_id": "CLI-001",
+  "pais": "EC",
+  "lineas": [
+    {"descripcion": "Consultoría", "cantidad": 2, "precio_unitario": "25.00"},
+    {"descripcion": "Soporte técnico", "cantidad": 1, "precio_unitario": "10.00"}
+  ]
+}

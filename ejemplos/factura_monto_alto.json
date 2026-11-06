@@ -1,0 +1,5 @@
+{
+  "cliente_id": "CLI-002",
+  "pais": "EC",
+  "lineas": [{"descripcion": "Servicio", "cantidad": 1, "precio_unitario": "10001.00"}]
+}
